@@ -1,0 +1,18 @@
+#header {
+  background: #aa0000;
+}
+
+body {
+  background: #aaaaaa;
+}
+
+p {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#lists {
+  background: #000000;
+  color: #00ffee;
+  
+}
