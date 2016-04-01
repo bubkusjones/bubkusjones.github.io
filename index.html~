@@ -3,6 +3,17 @@
 <html lang="en">
 
 	<link href="bootstrap-3.3.6-dist/css/bootstrap.css" type="text/css" rel="stylesheet" />
+	
+<style type="text/css">
+	h2 {
+	
+		border-color: black;
+		border-style: solid;
+		
+	}
+</style>	
+	
+	
 	<title>My Github Page</title>
 	<body>
 		<h1>If you're reading this, you must be bored</h1>
